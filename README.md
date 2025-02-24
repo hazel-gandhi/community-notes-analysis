@@ -40,6 +40,7 @@ This project uses community notes [data](https://x.com/i/communitynotes/download
 - Counted all notes that appeared in each bin.  
 
 ## 🚀 New Skills Acquired/Improved Approaches
+-Using Adobe Illustrator to make Tree Maps
 - Complex data analysis of large data files in pandas.  
 - Merging two large data files and ensuring the accuracy of the analysis by double-checking methodology, columns selected, and formulae applied.  
 - Doing complex `groupby`s and slicing and dicing data according to my queries.  
